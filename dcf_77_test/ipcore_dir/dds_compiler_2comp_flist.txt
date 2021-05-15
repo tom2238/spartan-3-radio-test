@@ -1,0 +1,14 @@
+# Output products list for <dds_compiler_2comp>
+_xmsgs/pn_parser.xmsgs
+dds_compiler_2comp/doc/dds_compiler_v4_0_vinfo.html
+dds_compiler_2comp/doc/dds_ds558.pdf
+dds_compiler_2comp.asy
+dds_compiler_2comp.gise
+dds_compiler_2comp.ngc
+dds_compiler_2comp.vhd
+dds_compiler_2comp.vho
+dds_compiler_2comp.xco
+dds_compiler_2comp.xise
+dds_compiler_2comp_flist.txt
+dds_compiler_2comp_readme.txt
+dds_compiler_2comp_xmdf.tcl

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/guest/Dokumenty/VUT/e-learning/BPC-NDI/Cviceni/0/dcf_77_test/test2.ncd
+OUTFILE=/home/guest/Dokumenty/VUT/e-learning/BPC-NDI/Cviceni/0/dcf_77_test/test2.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=/home/guest/Dokumenty/VUT/e-learning/BPC-NDI/Cviceni/0/dcf_77_test
+LICENSE=WebPack
+USER_INFO=__0_0_0

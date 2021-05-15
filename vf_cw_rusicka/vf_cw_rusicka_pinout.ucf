@@ -1,0 +1,5 @@
+NET clk                 LOC = T9;
+
+NET cw                  LOC = M13;
+
+NET ant                 LOC = R9;

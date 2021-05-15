@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/guest/Dokumenty/VUT/e-learning/BPC-NDI/Cviceni/0/ps2_rtty/ps2_rtty.ncd
+OUTFILE=/home/guest/Dokumenty/VUT/e-learning/BPC-NDI/Cviceni/0/ps2_rtty/ps2_rtty.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=/home/guest/Dokumenty/VUT/e-learning/BPC-NDI/Cviceni/0/ps2_rtty
+LICENSE=WebPack
+USER_INFO=__0_0_0

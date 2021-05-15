@@ -1,0 +1,42 @@
+# CLK
+NET clk      LOC = T9;
+# Reset
+NET rst      LOC = L14;
+# RS232 RX pin
+NET "uart_rx"             LOC = T13;
+# LEDs
+NET "leds[7]"             LOC = P11;
+NET "leds[6]"             LOC = P12;
+NET "leds[5]"             LOC = N12;
+NET "leds[4]"             LOC = P13;
+NET "leds[3]"             LOC = N14;
+NET "leds[2]"             LOC = L12;
+NET "leds[1]"             LOC = P14;
+NET "leds[0]"             LOC = K12;
+# Sound in A2
+NET "sound[7]" LOC = A10;
+NET "sound[6]" LOC = B11;
+NET "sound[5]" LOC = B12;
+NET "sound[4]" LOC = A12;
+NET "sound[3]" LOC = B13;
+NET "sound[2]" LOC = A13;
+NET "sound[1]" LOC = B14;
+NET "sound[0]" LOC = D9;
+# Prepinace
+NET "freq[7]" LOC = K13;
+NET "freq[6]" LOC = K14;
+NET "freq[5]" LOC = J13;
+NET "freq[4]" LOC = J14;
+NET "freq[3]" LOC = H13;
+NET "freq[2]" LOC = H14;
+NET "freq[1]" LOC = G12;
+NET "freq[0]" LOC = F12;
+# Konektor A2
+#NET "ant[7]" LOC = A10;
+NET "ant[6]" LOC = D7;
+NET "ant[5]" LOC = D8;
+NET "ant[4]" LOC = C9;
+NET "ant[3]" LOC = D10;
+NET "ant[2]" LOC = A3;
+NET "ant[1]" LOC = B4;
+NET "ant[0]" LOC = A4;

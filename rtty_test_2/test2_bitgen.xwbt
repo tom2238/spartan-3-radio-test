@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/guest/VUT/BPC-NDI/Cviceni/0/test_2/test2.ncd
+OUTFILE=/home/guest/VUT/BPC-NDI/Cviceni/0/test_2/test2.bit
+FAMILY=Spartan3
+PART=xc3s200-4ft256
+WORKINGDIR=/home/guest/VUT/BPC-NDI/Cviceni/0/test_2
+LICENSE=WebPack
+USER_INFO=__0_0_0

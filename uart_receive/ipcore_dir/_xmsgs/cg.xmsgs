@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="sim" num="172" delta="new" >Generating IP...
+</msg>
+
+<msg type="error" file="coreutil" num="0" delta="new" >Error occurred during initialization of VM
+java/lang/NoClassDefFoundError: java/lang/Object
+</msg>
+
+<msg type="error" file="coreutil" num="1012" delta="new" >Command &apos;<arg fmt="%s" index="1">/bin/sh -c &apos;/opt/Xilinx/14.7/ISE_DS/ISE/java/lin64/jre/bin/java   -cp &quot;.:/opt/Xilinx/14.7/ISE_DS/ISE/coregen/lib/coreutil.jar:/opt/Xilinx/14.7/ISE_DS/ISE/coregen/lib/sim.jar:/opt/Xilinx/14.7/ISE_DS/ISE/coregen/lib/xcc.jar:/opt/Xilinx/14.7/ISE_DS/ISE/coregen/lib/encore.jar:&quot; -Djava.compiler=NONE -Xmx1024m -Xms10m -Xss1m -XX:-UsePerfData -d64 com.xilinx.sim.netlisters.GenerationAPI   -cg_exp_inp ./tmp/_cg/xil_no2Unn.in -cg_exp_out ./tmp/_cg/xil_no2Unn.out&apos;</arg>&apos; returned a non-zero exit code &apos;<arg fmt="%x" index="2">1</arg>&apos;
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" >Error found during generation.
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" >Failed to generate &apos;fir&apos;.  An error occurred. Please see the log for details.
+</msg>
+
+</messages>
+
